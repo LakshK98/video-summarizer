@@ -5,3 +5,5 @@ backend_logic/gcp_cred/
 backend_logic/summarized_videos/
 backend_logic/test_transcript_picles/
 backend_logic/audios/
+backend_logic/gcp_cred/
+backend_logic/.DS_store
